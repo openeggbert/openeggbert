@@ -6,7 +6,7 @@ OpenEggbert is the open-source ecosystem of [Robert Vokáč](https://robertvokac
 
 🌐 [openeggbert.com](https://openeggbert.com) — ecosystem hub · 🎮 [speedyblupi.com](https://speedyblupi.com) — play the games in your browser · 👤 [robertvokac.com](https://robertvokac.com)
 
-**≈305k lines of C++** across the projects below.¹
+**≈312k lines of C++** across the projects below.¹
 
 ---
 
@@ -14,7 +14,7 @@ OpenEggbert is the open-source ecosystem of [Robert Vokáč](https://robertvokac
 
 | # | Project | What it is | LOC | Web / Demo |
 |---|---------|------------|----:|------------|
-| 1 | **[mesh-craft](https://github.com/openeggbert/mesh-craft)** 🚩 | Flagship — C++23 3D scene editor for the XML-based MC3 format: primitives, CSG booleans (Manifold), PBR materials, keyframe animation, glTF/GLB + MCB export | ≈18.1k | [meshcraft3d.com](https://meshcraft3d.com) |
+| 1 | **[mesh-craft](https://github.com/openeggbert/mesh-craft)** 🚩 | Flagship — C++23 3D scene editor for the XML-based MC3 format: primitives, CSG booleans (Manifold), PBR materials, keyframe animation, glTF/GLB + MCB export | ≈24.9k | [meshcraft3d.com](https://meshcraft3d.com) |
 | 2 | [mesh-world](https://github.com/openeggbert/mesh-world) | Procedural 3D world/city generator built on Mesh Craft — 20 C++ + 17 Lua generators, SQLite content packs, real-time chunk-streaming explorer | ≈12.7k | [meshworld3d.com](https://meshworld3d.com) |
 | 3 | [cna](https://github.com/openeggbert/cna) | Modern C++23 reimplementation of the Microsoft XNA 4.0 API on SDL3 — pluggable backends (SDL_Renderer, OpenGL, Vulkan, bgfx) and cross-platform networking | ≈76.9k | [libcna.com](https://libcna.com) · [demo](https://speedyblupi.com/SpeedyBlupi2013/) |
 | 4 | [cna-samples](https://github.com/openeggbert/cna-samples) | C++ ports of the official Microsoft XNA Game Studio 4.0 sample collection running on CNA — web demos coming soon | ≈48.0k | — |
