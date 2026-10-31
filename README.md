@@ -19,9 +19,7 @@ OpenEggbert is the open-source ecosystem of [Robert Vokáč](https://robertvokac
 | [free-eggbert](https://github.com/openeggbert/free-eggbert) | Reverse-engineered, buildable reconstruction of Speedy Eggbert 2, made portable via free-api + free-direct | ≈28.1k | [docs](https://freeeggbert.openeggbert.com) · [demo (partial)](https://speedyblupi.com/SpeedyEggbert2/) |
 | [mobile-eggbert](https://github.com/openeggbert/mobile-eggbert) | C++ port of Speedy Blupi (2013 Windows Phone XNA game) on CNA — fully playable in the browser | ≈20.5k | [docs](https://mobileeggbert.openeggbert.com) · [play](https://speedyblupi.com/SpeedyBlupi2013/) |
 | [galaxy-eggbert](https://github.com/openeggbert/galaxy-eggbert) | 3D remake of Speedy Blupi / Mobile Eggbert on CNA + Easy3D — the sole implementation; the prior Simple3D/U3D path was fully retired and removed from the tree on 2026-07-25 | ≈18.5k | [docs](https://galaxyeggbert.openeggbert.com) |
-| [easy-3d](https://github.com/openeggbert/easy-3d) | Small C++23 helper library beside CNA — cameras, texture atlas, billboard/cube batching, debug draw | ≈1.0k | [docs](https://easy3d.openeggbert.com) |
 | [mobile-eggbert-legacy](https://github.com/openeggbert/mobile-eggbert-legacy) | Legacy C#/MonoGame preservation archive of Mobile Eggbert (ILSpy-decompiled Windows Phone XNA sources) | — | — |
-| [mobile-eggbert-libgdx](https://github.com/openeggbert/mobile-eggbert-libgdx) | Java/LibGDX port of Speedy Blupi with a small XNA/.NET compatibility bridge | — | — |
 | [sprite-utils](https://github.com/openeggbert/sprite-utils) | Small C++23 sprite utilities and assets (number spritesheets, web component) | ≈2.2k | — |
 | [youtube-frontend](https://github.com/openeggbert/youtube-frontend) | C++23 static HTML index generator for ArchiveBox video archives (OpenCV + FFmpeg) | ≈2.3k | [web](https://youtube.openeggbert.com) |
 
